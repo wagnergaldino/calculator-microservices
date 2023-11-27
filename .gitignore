@@ -83,3 +83,10 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
+
+chatgpt-springboot-java-integration/.mvn/wrapper/maven-wrapper.properties
+chatgpt-springboot-java-integration/.mvn/wrapper/maven-wrapper.jar
+chatgpt-springboot-java-integration/.mvn/wrapper/maven-wrapper.jar
+chatgpt-springboot-java-integration/mvnw.cmd
+chatgpt-springboot-java-integration/mvnw
+chatgpt-springboot-java-integration/.mvn/wrapper/maven-wrapper.jar
